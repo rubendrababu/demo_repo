@@ -5,3 +5,4 @@ properties:
   ID?: string
   Name: string
   BillingAddress: string
+  BillingCountry: string
